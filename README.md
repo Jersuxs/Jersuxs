@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Iker y soy de España. No soy profesional, hago lo que puedo.</h2>
+<h2 align="left">¡Hola 👋! Mi nombre es Iker y soy de España. No soy profesional, hago lo que puedo.</h2>
 
 ###
 
