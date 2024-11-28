@@ -80,8 +80,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/jersuxs/jersuxs/output/snake.svg" alt="Snake animation" />
 
 ###
