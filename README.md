@@ -1,30 +1,21 @@
 <div align="center">
   
-  ```ascii
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   ██╗██╗  ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗ ║
-  ║   ██║██║ ██╔╝██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║ ║
-  ║   ██║█████╔╝ █████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║ ║
-  ║   ██║██╔═██╗ ██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝ ║
-  ║   ██║██║  ██╗███████╗██║  ██║    ██████╔╝███████╗ ╚████╔╝  ║
-  ║   ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝   ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
-  ```
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=IKER%20DEV&fontSize=70&fontAlignY=35&desc=Desarrollador%20Creativo%20|%20Explorador%20Digital&descAlignY=52&animation=twinkling"/>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Creador+Digital;Explorador+de+Código;Soñador+Tecnológico" alt="Typing SVG" />
 
   <br>
   
-  ```ascii
-  🌟 Transformando la imaginación en código desde España 🌟
-  ```
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/snake.svg">
   
   <br>
   
   [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/jersuxs)
   
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <details>
@@ -65,25 +56,21 @@ class IkerDev {
 
 </details>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <details>
 <summary>🌈 Mi Universo Digital</summary>
 <br>
 
 <div align="center">
 
-```ascii
-╔═══════════════════╗
-║  TECH PLAYGROUND  ║
-╚═══════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Tech%20Playground&fontSize=20&fontAlignY=50&animation=twinkling"/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,php,nodejs,express,nextjs,discordjs,mongodb,git,mysql,nginx&perline=5&theme=dark" />
 
-```ascii
-╔═══════════════════╗
-║  MAGIC METRICS    ║
-╚═══════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Magic%20Metrics&fontSize=20&fontAlignY=50&animation=twinkling"/>
 
 <table>
   <tr>
@@ -101,17 +88,17 @@ class IkerDev {
 </div>
 </details>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <details>
 <summary>🎨 Galería de Proyectos</summary>
 <br>
 
 <div align="center">
 
-```ascii
-╔═══════════════════╗
-║  OBRAS DIGITALES  ║
-╚═══════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Obras%20Digitales&fontSize=20&fontAlignY=50&animation=twinkling"/>
 
 <table>
   <tr>
@@ -128,12 +115,12 @@ class IkerDev {
 </details>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-```ascii
-╔═══════════════════════════════════════════╗
-║             CONECTA CONMIGO               ║
-╚═══════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Conecta%20Conmigo&fontSize=20&fontAlignY=50&animation=twinkling"/>
 
 <a href="https://discord.com/users/894623851261083689">
   <img src="https://lanyard.cnrad.dev/api/894623851261083689?theme=dark&bg=0D1117&borderRadius=5px&idleMessage=Probablemente%20programando..." />
@@ -148,30 +135,16 @@ class IkerDev {
 
 <br>
 
-```ascii
-╔═══════════════════════════════════════════╗
-║          MOMENTOS CAPTURADOS              ║
-╚═══════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Momentos%20Capturados&fontSize=20&fontAlignY=50&animation=twinkling"/>
 
 <img src="https://c.tenor.com/Ml4tbKzrc7AAAAAd/tenor.gif" width="200"/>
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/jersuxs/jersuxs/output/snake.svg)
-
-<br>
-
-```ascii
-═══════════════════════════════════════════════
-   "El código es poesía escrita en lógica"
-═══════════════════════════════════════════════
-```
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=20&fontAlign=50&fontAlignY=80&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=20&fontAlign=50&fontAlignY=80&animation=twinkling"/>
 
 </div>
