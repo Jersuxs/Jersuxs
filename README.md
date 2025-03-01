@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894623851261083689)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jersuxs@kaytipo.online)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://tu-portfolio-si-tienes.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://jersuxs.netlify.app/)
 [![GitHub followers](https://img.shields.io/github/followers/Jersuxs?style=for-the-badge&logo=github)](https://github.com/Jersuxs)
 
 </div>
@@ -94,11 +94,8 @@ Me considero una persona proactiva y entusiasta, con una mentalidad de crecimien
 ## 💼 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/Jersuxs/proyecto-ejemplo-1">
+  <a href="https://github.com/Jersuxs/Economia.Discord.js">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jersuxs&repo=proyecto-ejemplo-1&theme=radical" />
-  </a>
-  <a href="https://github.com/Jersuxs/proyecto-ejemplo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jersuxs&repo=proyecto-ejemplo-2&theme=radical" />
   </a>
 </div>
 
