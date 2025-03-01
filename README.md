@@ -1,150 +1,120 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=IKER%20DEV&fontSize=70&fontAlignY=35&desc=Desarrollador%20Creativo%20|%20Explorador%20Digital&descAlignY=52&animation=twinkling"/>
+# 👨‍💻 Jersuxs | Desarrollador Full-Stack
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Creador+Digital;Explorador+de+Código;Soñador+Tecnológico" alt="Typing SVG" />
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894623851261083689)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jersuxs@kaytipo.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://tu-portfolio-si-tienes.com)
+[![GitHub followers](https://img.shields.io/github/followers/Jersuxs?style=for-the-badge&logo=github)](https://github.com/Jersuxs)
 
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/snake.svg">
-  
-  <br>
-  
-  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/jersuxs)
-  
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+## 🌟 Sobre mí
 
-<details>
-<summary>🎯 Mi Historia Digital</summary>
-<br>
+<img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="360px" alt="Coding Gif" />
 
-```javascript
-class IkerDev {
-    constructor() {
-        this.nombre = "Iker";
-        this.ubicación = "España 🇪🇸";
-        this.tipo = "Desarrollador Creativo 🎨";
-        this.estado = "Aprendiendo y creando 🚀";
-    }
+Soy un desarrollador Full-Stack junior con experiencia en múltiples tecnologías y frameworks modernos. Mi viaje en el mundo del desarrollo comenzó hace más de un año, y desde entonces me he dedicado a expandir mis conocimientos y habilidades constantemente.
 
-    obtenerHabilidades() {
-        return {
-            lenguajes: {
-                principal: ["JavaScript", "TypeScript", "Python"],
-                secundario: ["PHP", "HTML", "CSS"]
-            },
-            frameworks: {
-                frontend: ["React ⚛️", "Next.js"],
-                backend: ["Node.js 🟢", "Express"],
-                otros: ["Discord.js"]
-            },
-            databases: ["MongoDB 🍃", "MySQL 🐬"],
-            tools: ["Git", "VS Code", "Nginx"],
-            intereses: ["Web3", "AI", "Fotografía 📸"]
-        };
-    }
+- 🚀 Actualmente estoy perfeccionando mis habilidades en arquitecturas de microservicios
+- 🔍 Explorando las últimas tendencias en desarrollo web y serverless
+- 📚 Aprendiendo continuamente sobre patrones de diseño y mejores prácticas
+- 🌱 Contribuyendo a proyectos open source cuando tengo la oportunidad
+- 💡 Buscando colaborar en proyectos innovadores que desafíen mis habilidades
 
-    decirHola() {
-        console.log("¡Gracias por visitar mi perfil! 👋");
-    }
-}
-```
+Me considero una persona proactiva y entusiasta, con una mentalidad de crecimiento constante. Disfruto resolviendo problemas complejos y transformando ideas en soluciones tecnológicas eficientes. Mi objetivo es crear software que no solo funcione bien, sino que también proporcione experiencias excepcionales a los usuarios.
 
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<details>
-<summary>🌈 Mi Universo Digital</summary>
-<br>
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Tech%20Playground&fontSize=20&fontAlignY=50&animation=twinkling"/>
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,php,nodejs,express,nextjs,discordjs,mongodb,git,mysql,nginx&perline=5&theme=dark" />
+### Frameworks y Librerías
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Magic%20Metrics&fontSize=20&fontAlignY=50&animation=twinkling"/>
+### Runtimes
+![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+
+### Otras Herramientas
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 🚀 Especialidades
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jersuxs&show_icons=true&theme=radical&hide_border=true&custom_title=✨%20Estadísticas%20Mágicas&bg_color=0D1117" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+      <br>Bot Development
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jersuxs&theme=radical&hide_border=true&background=0D1117" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Hosting" />
+      <br>Hosting
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Web" />
+      <br>Web Dev
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="App" />
+      <br>App Dev
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jersuxs&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-
-</div>
-</details>
+## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jersuxs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jersuxs&theme=radical" alt="GitHub Streak" />
 </div>
 
-<details>
-<summary>🎨 Galería de Proyectos</summary>
-<br>
+## 🏆 Logros y Certificaciones
+
+- 🥇 Participación en hackathons locales e internacionales
+- 📜 Certificación en desarrollo web responsive
+- 🏅 Reconocimiento por contribuciones a proyectos open source
+- 🎓 Formación continua a través de plataformas educativas online
+
+## 💼 Proyectos Destacados
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Obras%20Digitales&fontSize=20&fontAlignY=50&animation=twinkling"/>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jersuxs&repo=status-monitor&theme=radical&bg_color=0D1117&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jersuxs&repo=proyecto2&theme=radical&bg_color=0D1117&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-</div>
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="https://github.com/Jersuxs/proyecto-ejemplo-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jersuxs&repo=proyecto-ejemplo-1&theme=radical" />
+  </a>
+  <a href="https://github.com/Jersuxs/proyecto-ejemplo-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jersuxs&repo=proyecto-ejemplo-2&theme=radical" />
+  </a>
 </div>
 
+## 🤝 Colaboremos
+
+¿Tienes un proyecto interesante? ¿Buscas colaboración en alguna idea innovadora? ¡Estoy siempre abierto a nuevas oportunidades y desafíos!
+
+### 📫 Contáctame:
+
+- **Discord:** [Jersuxs](https://discord.com/users/894623851261083689)
+- **Email:** [jersuxs@kaytipo.online](mailto:jersuxs@kaytipo.online)
+
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Conecta%20Conmigo&fontSize=20&fontAlignY=50&animation=twinkling"/>
-
-<a href="https://discord.com/users/894623851261083689">
-  <img src="https://lanyard.cnrad.dev/api/894623851261083689?theme=dark&bg=0D1117&borderRadius=5px&idleMessage=Probablemente%20programando..." />
-</a>
-
-<br>
-<br>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894623851261083689)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Jersuxs)
-[![Unsplash](https://img.shields.io/badge/Unsplash-%23000000.svg?style=for-the-badge&logo=Unsplash&logoColor=white)](https://unsplash.com/es/@jersuxs)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=40&section=header&text=Momentos%20Capturados&fontSize=20&fontAlignY=50&animation=twinkling"/>
-
-<img src="https://c.tenor.com/Ml4tbKzrc7AAAAAd/tenor.gif" width="200"/>
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=20&fontAlign=50&fontAlignY=80&animation=twinkling"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Jersuxs&style=flat-square&color=blueviolet" alt="Profile views" />
+  
+  *"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House*
 </div>
