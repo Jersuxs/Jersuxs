@@ -1,111 +1,71 @@
-# ¡Hola! 👋 Soy Jersuxs
+<h1 align="center">¡Hola! 👋 Soy Jersuxs</h1>
+<h3 align="center">Full-Stack Developer | JavaScript Enthusiast | Open-Source Contributor</h3>
+
+<p align="center">
+<a href="https://discord.com/users/894623851261083689" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-Cont%C3%A1ctame-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"/></a>
+</p>
 
 <p align="left">
-  <a href="https://discord.com/users/894623851261083689" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Contáctame-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+Soy un desarrollador de software enfocado en construir soluciones robustas y escalables, con una fuerte pasión por el ecosistema de JavaScript/TypeScript y la creación de herramientas para comunidades online, como bots de Discord. Disfruto trabajando en proyectos de código abierto y siempre estoy en busca de nuevos desafíos tecnológicos.
 </p>
 
-Soy un desarrollador apasionado por el ecosistema de JavaScript, la creación de soluciones eficientes y el aprendizaje constante. Me especializo en el desarrollo de aplicaciones web modernas y en la creación de bots para Discord.
+<h2 align="center">📊 Mis Estadísticas de GitHub</h2>
 
----
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJersuxs%26show_icons%3Dtrue%26theme%3Dtokyonight%26border_radius%3D10%26count_private%3Dtrue" alt="Estadísticas de GitHub de Jersuxs" width="49%"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJersuxs%26layout%3Dcompact%26theme%3Dtokyonight%26border_radius%3D10" alt="Lenguajes más usados por Jersuxs" width="49%"/>
+</p>
 
-## 🛠️ Tecnologías y Herramientas
+<h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
-Aquí están algunas de las tecnologías con las que trabajo regularmente:
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong><br>(Mi favorito)
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-      <br><strong>SvelteKit</strong><br>(Mi favorito)
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
-      <br><strong>Bun</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="Discord.js" />
-      <br><strong>Discord.js</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br><strong>Vite</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br><strong>PHP</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-  </tr>
-    <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="Deno" />
-      <br><strong>Deno</strong>
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" width="150">
+<h4><strong>Backend</strong></h4>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts" alt="TypeScript" height="40"></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs" alt="Node.js" height="40"></a>
+<a href="https://bun.sh/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dbun" alt="Bun" height="40"></a>
+<a href="https://deno.land/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddeno" alt="Deno" height="40"></a>
+<a href="https://www.php.net/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp" alt="PHP" height="40"></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" alt="Python" height="40"></a>
+</td>
+<td align="center" width="150">
+<h4><strong>Frontend</strong></h4>
+<a href="https://kit.svelte.dev/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsvelte" alt="Svelte" height="40"></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact" alt="React" height="40"></a>
+<a href="https://vitejs.dev/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvite" alt="Vite" height="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" alt="JavaScript" height="40"></a>
+<a href="https://www.w3.org/html/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml" alt="HTML5" height="40"></a>
+<a href="https://www.google.com/search?q=https://www.w3.org/css/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcss" alt="CSS3" height="40"></a>
+</td>
+<td align="center" width="150">
+<h4><strong>Herramientas y Plataformas</strong></h4>
+<a href="https://discord.js.org/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddiscordjs" alt="Discord.js" height="40"></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithub" alt="GitHub" height="40"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode" alt="VS Code" height="40"></a>
+</td>
+</tr>
 </table>
 
----
-
-## ✨ Proyecto Destacado
-
-Me enorgullece mantener proyectos de código abierto. Mi dependencia más destacada es:
+<h2 align="center">✨ Proyecto Destacado</h2>
 
 <p align="center">
-  <a href="https://github.com/Jersuxs/SQLMongoose">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jersuxs&repo=SQLMongoose&theme=tokyonight&border_radius=10" />
-  </a>
+Me enorgullece mantener proyectos de código abierto. Mi dependencia más destacada es <strong>SQLMongoose</strong>, una herramienta para facilitar la interacción con bases de datos SQL.
+</p>
+<p align="center">
+<a href="https://github.com/Jersuxs/SQLMongoose">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DJersuxs%26repo%3DSQLMongoose%26theme%3Dtokyonight%26border_radius%3D10" />
+</a>
 </p>
 
-**SQLMongoose** es una dependencia para NPM que facilita la interacción con bases de datos SQL utilizando una sintaxis moderna e inspirada en Mongoose.
-
----
-
-## 🤝 ¡Colaboremos!
-
-Siempre estoy abierto a colaborar en proyectos interesantes y a conectar con otros desarrolladores. Si tienes alguna idea, un proyecto en mente o simplemente quieres charlar sobre tecnología, ¡no dudes en escribirme!
+<h2 align="center">📫 Contacto y Colaboración</h2>
 
 <p align="center">
-  <strong>La mejor forma de contactarme es a través de Discord.</strong><br/><br/>
-  <a href="https://discord.com/users/894623851261083689" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Jersuxs-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+Estoy abierto a colaborar en proyectos innovadores y a conectar con otros profesionales. Si tienes una idea o un proyecto en el que crees que puedo aportar valor, no dudes en contactarme.
+<br/><br/>
+<strong>La mejor forma de contactarme es a través de Discord.</strong>
+<br/><br/>
+<a href="https://discord.com/users/894623851261083689" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-Jersuxs-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"/>
+</a>
 </p>
